@@ -27,7 +27,7 @@
 	<span style="color:#E53333;font-size:24px;"><strong>备用网址三：PWXXX.cc</strong></span> 
 </p>
 <p style="text-align:center;">
-	<span style="font-size:24px;">发布页：github.com/pwxxxcom</span> 
+	<span style="font-size:24px;">发布页：pwxxxcom.github.io</span> 
 </p>
 <p style="text-align:center;">
 	<span style="font-size:24px;">网址邮箱：pwxxxcom@gmail.com</span> 
