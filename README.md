@@ -15,16 +15,10 @@
 	<span style="font-size:24px;">↓↓请记住我们的相关网址↓↓</span> 
 </p>
 <p style="text-align:center;">
-	<span style="color:#E53333;font-size:24px;"><strong>永久网址：PWXXX.com</strong></span> 
+	<span style="color:#E53333;font-size:24px;"><strong>PWXXX.com丨PWXXX.net</strong></span> 
 </p>
 <p style="text-align:center;">
-	<span style="color:#E53333;font-size:24px;"><strong>备用网址一：PWXXX.net</strong></span> 
-</p>
-<p style="text-align:center;">
-	<span style="color:#E53333;font-size:24px;"><strong>备用网址二：PWXXX.org</strong></span> 
-</p>
-<p style="text-align:center;">
-	<span style="color:#E53333;font-size:24px;"><strong>备用网址三：PWXXX.cc</strong></span> 
+	<span style="color:#E53333;font-size:24px;"><strong>PWXXX.org丨PWXXX.cc</strong></span> 
 </p>
 <p style="text-align:center;">
 	<span style="font-size:24px;">发布页：pwxxxcom.github.io</span> 
