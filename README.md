@@ -2,8 +2,8 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="keywords" content="PWXXX,PWXXX.com,PWXXX视频,PWXXX论坛,PWXXX导航" />
-	<meta name="description" content="PWXXX（PWXXX.com）是一个集在线视频、论坛社区、网址导航等等为一体的综合性网站。" />
+	<meta name="keywords" content="PWXXX,PWXXX.com,PWXXX视频,PWXXX论坛,PWXXX美图,PWXXX小说,PWXXX导航" />
+	<meta name="description" content="PWXXX（PWXXX.com）是一个集在线视频、论坛社区、美女图片、小说文学、网址导航，等等为一体的综合性网站。" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="/favicon.ico">
 </head>
@@ -30,35 +30,21 @@
 <p style="text-align:center;">
 	<span style="font-size:24px;">↓↓↓开始浏览网站↓↓↓</span> 
 </p>
-<table align="center" border="1" cellpadding="1" cellspacing="1" style="width:360px;">
-<tbody>
-<tr>
-<td style="text-align: center;"><span style="color:#FF9900;"><span style="font-size:24px;">PWXXX视频：</span></span></td>
-<td style="text-align: center;"><span style="font-size:24px;"><a href="https://www.pwxxx.co/" target="_blank">线路一</a></span></td>
-<td style="text-align: center;"><span style="font-size:24px;"><a href="https://www.pwxxx.xyz/" target="_blank">线路二</a></span></td>
-</tr>
-<tr>
-<td style="text-align: center;"><span style="color:#00D5FF;"><span style="font-size:24px;">PWXXX论坛：</span></span></td>
-<td style="text-align: center;"><span style="font-size:24px;"><a href="https://bbs.pwxxx.co/" target="_blank">线路一</a></span></td>
-<td style="text-align: center;"><span style="font-size:24px;"><a href="https://bbs.pwxxx.xyz/" target="_blank">线路二</a></span></td>
-</tr>
-<tr>
-<td style="text-align: center;"><span style="color:#FF66CC;"><span style="font-size:24px;">PWXXX美图：</span></span></td>
-<td style="text-align: center;"><span style="font-size:24px;"><a href="https://tu.pwxxx.co/" target="_blank">线路一</a></span></td>
-<td style="text-align: center;"><span style="font-size:24px;"><a href="https://tu.pwxxx.xyz/" target="_blank">线路二</a></span></td>
-</tr>
-<tr>
-<td style="text-align: center;"><span style="color:#DFC5A4;"><span style="font-size:24px;">PWXXX小说：</span></span></td>
-<td style="text-align: center;"><span style="font-size:24px;"><a href="https://shu.pwxxx.co/" target="_blank">线路一</a></span></td>
-<td style="text-align: center;"><span style="font-size:24px;"><a href="https://shu.pwxxx.xyz/" target="_blank">线路二</a></span></td>
-</tr>
-<tr>
-<td style="text-align: center;"><span style="color:#563D7C;"><span style="font-size:24px;">PWXXX导航：</span></span></td>
-<td style="text-align: center;"><span style="font-size:24px;"><a href="https://123.pwxxx.co/" target="_blank">线路一</a></span></td>
-<td style="text-align: center;"><span style="font-size:24px;"><a href="https://123.pwxxx.xyz/" target="_blank">线路二</a></span></td>
-</tr>
-</tbody>
-</table>
+<p style="text-align:center;">
+<span style="color:#FF9900;font-size:24px;">PWXXX视频：👉</span> <a href="https://www.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://www.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
+</p>
+<p style="text-align:center;">
+<span style="color:#00D5FF;font-size:24px;">PWXXX论坛：👉</span> <a href="https://bbs.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://bbs.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
+</p>
+<p style="text-align:center;">
+<span style="color:#FF66CC;font-size:24px;">PWXXX美图：👉</span> <a href="https://tu.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://tu.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
+</p>
+<p style="text-align:center;">
+<span style="color:#DFC5A4;font-size:24px;">PWXXX小说：👉</span> <a href="https://shu.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://shu.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
+</p>
+<p style="text-align:center;">
+<span style="color:#563D7C;font-size:24px;">PWXXX导航：👉</span> <a href="https://123.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://123.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
+</p>
 <hr style="width:90%" />
 <p style="text-align:center;">
 	合作联系方式
