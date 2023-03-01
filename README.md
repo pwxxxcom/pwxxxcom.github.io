@@ -53,7 +53,7 @@
 	Mail：pwxxx@pm.me丨TG：pwxxxcom
 </p>
 <p style="text-align:center;">
-	© Copyright 2022 PWXXX.com All Rights Reserved.
+	© Copyright 2023 PWXXX.com All Rights Reserved.
 </p>
 </body>
 </html>
