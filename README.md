@@ -43,7 +43,7 @@
 <span style="color:#DFC5A4;font-size:24px;">PWXXX小说：👉</span> <a href="https://shu.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://shu.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
 </p>
 <p style="text-align:center;">
-<span style="color:#563D7C;font-size:24px;">PWXXX导航：👉</span> <a href="https://123.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://123.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
+<span style="color:#2C2E2F;font-size:24px;">PWXXX导航：👉</span> <a href="https://123.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://123.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
 </p>
 <hr style="width:90%" />
 <p style="text-align:center;">
