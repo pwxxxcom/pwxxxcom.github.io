@@ -12,7 +12,7 @@
 	<a href="https://pwxxx.com"><img src="/logo.png" alt="" /></a>
 </div>
 <p style="text-align:center;">
-	<span style="font-size:24px;">↓↓请记住我们的相关网址↓↓</span> 
+	<span style="font-size:24px;">↓请记住我们的永久网址↓</span> 
 </p>
 <p style="text-align:center;">
 	<span style="color:#E53333;font-size:24px;"><strong>PWXXX.com丨PWXXX.net</strong></span> 
