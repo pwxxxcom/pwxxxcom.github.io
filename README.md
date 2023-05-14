@@ -37,12 +37,6 @@
 <span style="color:#00D5FF;font-size:24px;">PWXXX论坛：👉</span> <a href="https://bbs.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://bbs.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
 </p>
 <p style="text-align:center;">
-<span style="color:#FF66CC;font-size:24px;">PWXXX美图：👉</span> <a href="https://tu.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://tu.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
-</p>
-<p style="text-align:center;">
-<span style="color:#DFC5A4;font-size:24px;">PWXXX小说：👉</span> <a href="https://shu.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://shu.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
-</p>
-<p style="text-align:center;">
 <span style="color:#000000;font-size:24px;">PWXXX导航：👉</span> <a href="https://123.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://123.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
 </p>
 <hr style="width:90%" />
