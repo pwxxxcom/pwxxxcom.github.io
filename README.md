@@ -34,7 +34,7 @@
 <span style="color:#FF9900;font-size:24px;">PWXXX视频：👉</span> <a href="https://www.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://www.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
 </p>
 <p style="text-align:center;">
-<span style="color:#000000;font-size:24px;">PWXXX导航：👉</span> <a href="https://123.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://123.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
+<span style="color:#03A9F4;font-size:24px;">PWXXX导航：👉</span> <a href="https://123.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://123.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
 </p>
 <hr style="width:90%" />
 <p style="text-align:center;">
