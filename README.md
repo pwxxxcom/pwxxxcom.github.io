@@ -9,7 +9,7 @@
 </head>
 <body>
 <div style="text-align:center;">
-	<a href="https://pwxxx.com"><img src="/logo2.png" alt="" /></a>
+	<a href="https://pwxxx.com"><img src="/logo.png" alt="" /></a>
 </div>
 <p style="text-align:center;">
 	<span style="font-size:24px;">↓请记住我们的永久网址↓</span> 
