@@ -12,6 +12,16 @@
 	<a href="https://pwxxx.com"><img src="/logo.png" alt="" /></a>
 </div>
 <p style="text-align:center;">
+	<span style="font-size:24px;">↓↓↓开始浏览网站↓↓↓</span> 
+</p>
+<p style="text-align:center;">
+<span style="color:#FF9900;font-size:24px;">PWXXX视频：👉</span> <a href="https://www.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://www.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
+</p>
+<p style="text-align:center;">
+<span style="color:#03A9F4;font-size:24px;">PWXXX导航：👉</span> <a href="https://123.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://123.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
+</p>
+<hr style="width:90%" />
+<p style="text-align:center;">
 	<span style="font-size:24px;">↓请记住我们的永久网址↓</span> 
 </p>
 <p style="text-align:center;">
@@ -25,16 +35,6 @@
 </p>
 <p style="text-align:center;">
 	<span style="font-size:24px;">网址邮箱：pwxxxcom@gmail.com</span> 
-</p>
-<hr style="width:90%" />
-<p style="text-align:center;">
-	<span style="font-size:24px;">↓↓↓开始浏览网站↓↓↓</span> 
-</p>
-<p style="text-align:center;">
-<span style="color:#FF9900;font-size:24px;">PWXXX视频：👉</span> <a href="https://www.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://www.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
-</p>
-<p style="text-align:center;">
-<span style="color:#03A9F4;font-size:24px;">PWXXX导航：👉</span> <a href="https://123.pwxxx.co/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://123.pwxxx.xyz/" target="_blank"><span style="font-size:24px;">线路二</span></a>
 </p>
 <hr style="width:90%" />
 <p style="text-align:center;">
