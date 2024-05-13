@@ -22,23 +22,18 @@
 </p>
 <hr style="width:90%" />
 <p style="text-align:center;">
-	<span style="font-size:24px;">↓请记住我们的永久网址↓</span> 
+	<span style="font-size:24px;">永久网址：PWXXX.com</span> 
 </p>
+
 <p style="text-align:center;">
-	<span style="color:#E53333;font-size:24px;"><strong>PWXXX.com丨PWXXX.net</strong></span> 
-</p>
-<p style="text-align:center;">
-	<span style="color:#E53333;font-size:24px;"><strong>PWXXX.org丨PWXXX.cc</strong></span> 
-</p>
-<p style="text-align:center;">
-	<span style="font-size:24px;">发布页：pwxxx.gitbook.io</span> 
+	<span style="font-size:24px;">地址发布：pwxxx.gitbook.io</span> 
 </p>
 <p style="text-align:center;">
 	<span style="font-size:24px;">网址邮箱：pwxxxcom@gmail.com</span> 
 </p>
 <hr style="width:90%" />
 <p style="text-align:center;">
-	© Copyright 2023 PWXXX.com All Rights Reserved.
+	© Copyright 2024 PWXXX.com All Rights Reserved.
 </p>
 </body>
 </html>
