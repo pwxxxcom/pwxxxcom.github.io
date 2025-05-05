@@ -15,7 +15,7 @@
 	<span style="font-size:24px;">↓↓↓开始浏览网站↓↓↓</span> 
 </p>
 <p style="text-align:center;">
-<span style="color:#FF9900;font-size:24px;">PWXXX视频：👉</span> <a href="https://www.pwxxx21.top/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://www.pwxxx22.top/" target="_blank"><span style="font-size:24px;">线路二</span></a>
+<span style="color:#FF9900;font-size:24px;">PWXXX视频：👉</span> <a href="https://pwxxx.pwxxx21.top/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://pwxxx.pwxxx22.top/" target="_blank"><span style="font-size:24px;">线路二</span></a>
 </p>
 <p style="text-align:center;">
 <span style="color:#03A9F4;font-size:24px;">PWXXX导航：👉</span> <a href="https://123.pwxxx21.top/" target="_blank"><span style="font-size:24px;">线路一</span></a> &nbsp; <a href="https://123.pwxxx22.top/" target="_blank"><span style="font-size:24px;">线路二</span></a>
